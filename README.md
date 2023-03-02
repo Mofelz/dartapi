@@ -4,7 +4,8 @@
 Ход работы:
 Регистрация
 
-![image](https://user-images.githubusercontent.com/93879842/205842064-320448bb-18cd-45a2-9a8d-b25aa958f535.png)
+![image](https://user-images.githubusercontent.com/93879842/222528982-8d20df34-93f9-43d7-a3b1-610c2bc8f571.png)
+
 
 Пример регистрации
 image
