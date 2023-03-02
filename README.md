@@ -10,7 +10,9 @@
 
 
 Пример регистрации
-image
+
+![image](https://user-images.githubusercontent.com/93879842/222529890-ec897f5d-2c59-47fe-999b-1b411c26e234.png)
+
 
 Авторизация
 image
