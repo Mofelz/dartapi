@@ -9,8 +9,6 @@
 ![image](https://user-images.githubusercontent.com/93879842/222528982-8d20df34-93f9-43d7-a3b1-610c2bc8f571.png)
 
 
-Пример регистрации
-
 ![image](https://user-images.githubusercontent.com/93879842/222529890-ec897f5d-2c59-47fe-999b-1b411c26e234.png)
 
 
@@ -18,18 +16,18 @@
 
 ![image](https://user-images.githubusercontent.com/93879842/222530547-c91eb5fc-4486-4546-8320-f2290c725528.png)
 
-Пример авторизации
 
 ![image](https://user-images.githubusercontent.com/93879842/222530667-c610b67b-56e5-48e5-b5ef-4086ab2fa4d7.png)
 
 Вывод данных пользователя
-image
 
-Пример вывода данных пользователя
-image
+![image](https://user-images.githubusercontent.com/93879842/222545864-490fb4fa-c294-4582-80cb-e119dc585e83.png)
+
+![image](https://user-images.githubusercontent.com/93879842/222545927-373cf0cb-d367-4e5c-9810-de0c74dd4713.png)
 
 Редактирование данных пользователя
-image
+
+![image](https://user-images.githubusercontent.com/93879842/222546877-3647fb2a-b548-4240-99ab-d95899899faf.png)
 
 Пример редактирования данных пользователя
 image
@@ -38,45 +36,42 @@ image
 image
 
 Пример изменения пароля пользователя
-image
+
+![image](https://user-images.githubusercontent.com/93879842/222546977-d748a911-dc63-4f1e-a9db-343d97f2656a.png)
 
 Создание заметки
-image
 
-Пример создания заметки
-image
+![image](https://user-images.githubusercontent.com/93879842/222552296-09b5f512-b760-4098-8b3c-2b3f6d31c015.png)
+
+![image](https://user-images.githubusercontent.com/93879842/222552669-8d79e72d-aa45-4ade-9274-d471eb49f431.png)
 
 Изменение заметки
-image
 
-Пример изменения заметки
-image
+![image](https://user-images.githubusercontent.com/93879842/222552776-793ee3cb-1130-4cbc-9fb3-7c377812d5d3.png)
 
-Вывод заметок
-image
+![image](https://user-images.githubusercontent.com/93879842/222553573-38705c8c-c7fc-4559-96d8-05b83a349733.png)
+
 
 Пример вывода заметок c пагинацией
-image
+
+![image](https://user-images.githubusercontent.com/93879842/222553778-c8e88acb-2a0b-462f-84e9-1925d929c71a.png)
 
 Пример вывода заметок с фильтром
-image
+
+![image](https://user-images.githubusercontent.com/93879842/222553833-f1c950df-621c-4e6d-be13-ad8aab790d56.png)
+
 
 Логическое удаление
-image
 
-Пример логического удаления
-image
+![image](https://user-images.githubusercontent.com/93879842/222554038-1f8a4f3d-ea36-4bc0-83e8-b0dc964f8285.png)
 
 Восстановление заметки
-image
 
-Пример восстановления заметки
-image
+![image](https://user-images.githubusercontent.com/93879842/222554161-923c9cc6-9591-4b9b-9edf-5354ddc18828.png)
 
 История действий
-image
 
-Вывод истории действий
-image
+![image](https://user-images.githubusercontent.com/93879842/222554463-f9282d62-f2cf-462a-a44e-77fc1a52d9b1.png)
+
 
 Вывод: в этой практичесткой работе было реализовано API включающий в себя регистрацию, авторизацию, RefreshToken, вывод данных пользователя, редактирование данных пользователя, изменение пароля пользователя, CRUD действия по теме, поиск, пагинацию данных, фильтрацию, логическое удаление и восстановление, историю действий.
