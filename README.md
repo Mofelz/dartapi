@@ -29,12 +29,6 @@
 
 ![image](https://user-images.githubusercontent.com/93879842/222546877-3647fb2a-b548-4240-99ab-d95899899faf.png)
 
-Пример редактирования данных пользователя
-image
-
-Изменение пароля пользователя
-image
-
 Пример изменения пароля пользователя
 
 ![image](https://user-images.githubusercontent.com/93879842/222546977-d748a911-dc63-4f1e-a9db-343d97f2656a.png)
@@ -63,13 +57,15 @@ image
 
 Логическое удаление
 
+![image](https://user-images.githubusercontent.com/93879842/222555622-f23a5191-05d5-4123-b281-17f95a78ac1f.png)
+
 ![image](https://user-images.githubusercontent.com/93879842/222554038-1f8a4f3d-ea36-4bc0-83e8-b0dc964f8285.png)
 
-Восстановление заметки
-
-![image](https://user-images.githubusercontent.com/93879842/222554161-923c9cc6-9591-4b9b-9edf-5354ddc18828.png)
 
 История действий
+
+![image](https://user-images.githubusercontent.com/93879842/222555111-8e942cbd-b2ad-4a06-8ea8-d00f5ecc7623.png)
+
 
 ![image](https://user-images.githubusercontent.com/93879842/222554463-f9282d62-f2cf-462a-a44e-77fc1a52d9b1.png)
 
