@@ -15,16 +15,12 @@
 
 
 Авторизация
-image
+
+![image](https://user-images.githubusercontent.com/93879842/222530547-c91eb5fc-4486-4546-8320-f2290c725528.png)
 
 Пример авторизации
-image
 
-RefreshToken
-image
-
-Пример RefreshToken
-image
+![image](https://user-images.githubusercontent.com/93879842/222530667-c610b67b-56e5-48e5-b5ef-4086ab2fa4d7.png)
 
 Вывод данных пользователя
 image
