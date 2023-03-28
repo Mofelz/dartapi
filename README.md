@@ -14,7 +14,10 @@
 Создаем экран для вошедшего пользователя.\
 ![image](https://user-images.githubusercontent.com/82903497/222194866-7a8661eb-50c7-4cfd-9569-8f50c5a9347a.png)\
 Проверяем работоспособность.\
-![image](https://user-images.githubusercontent.com/82903497/222194912-08105e09-6e27-4678-9d38-25aa6a67d78f.png)\
+![image](https://user-images.githubusercontent.com/93879842/228247108-e4770038-f83c-40f8-9640-0d6ed1d4b189.png)
 Входим за пользователя.\
-![image](https://user-images.githubusercontent.com/82903497/222195169-b468c404-cf14-4b86-bed5-78bdd8e810c6.png)\
+![image](https://user-images.githubusercontent.com/93879842/228247291-bb0c6a69-6921-4b1c-bda9-9cbcb9d013d6.png)
+Входим за анонимуса
+![image](https://user-images.githubusercontent.com/93879842/228247560-d1274ba5-a940-4f44-bc79-aa649ceef836.png)
+
 Вывод: В процессе выполнения данной практической работы было реализовано приложение с использование FirebaseAuth, были реализованы функции: Аутентификация пользователя по почте и логину, аутентификация анонимного пользователя, аутентификация в Firebase с использованием ссылок электронной почты.
