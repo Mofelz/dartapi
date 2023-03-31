@@ -28,5 +28,7 @@
 6.	Пример данных
 
 ![изображение](https://user-images.githubusercontent.com/69753376/224557075-b88e220e-443e-499d-9a08-6460e5469941.png)
+![image](https://user-images.githubusercontent.com/93879842/229039508-c1008a6d-e8af-4a27-b65a-a577f8a76100.png)
+
 
 #### Вывод: создал приложение с сохранением данных firestore, crud и динамическим обновлением данных.
