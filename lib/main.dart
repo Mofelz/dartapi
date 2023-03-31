@@ -1,21 +1,27 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_firebase/firebase_options.dart';
+import 'package:flutter_firebase/screens/enter_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
-
-import '../firebase_options.dart';
-import '../screens/auth_screen.dart';
-import '../screens/home_screen.dart';
+import 'package:flutter_firebase/screens/main_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
-  runApp(const App());
+  runApp(const MyApp());
 }
 
-class App extends StatelessWidget {
-  const App({Key? key}) : super(key: key);
-
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
   @override
-  Widget build(BuildContext context) =>
-      MaterialApp(debugShowCheckedModeBanner: false, home: FirebaseAuth.instance.currentUser == null ? const AuthScreen() : const HomeScreen());
+  Widget build(BuildContext context) {
+    return MaterialApp(
+        debugShowCheckedModeBanner: false,
+        title: 'Flutter Demo',
+        theme: ThemeData(
+          primarySwatch: Colors.blue,
+        ),
+        home: FirebaseAuth.instance.currentUser == null ? const EnterScreen() : const MainScreen());
+  }
 }
