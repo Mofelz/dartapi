@@ -49,7 +49,7 @@ class ProfilePageState extends State<ProfilePage> {
                           }
                         },
                         decoration: const InputDecoration(
-                            border: OutlineInputBorder(), hintText: "email"),
+                            border: OutlineInputBorder(), hintText: "почта"),
                       ),
                     ),
                     Padding(
@@ -58,12 +58,12 @@ class ProfilePageState extends State<ProfilePage> {
                         controller: passwordController,
                         decoration: const InputDecoration(
                             border: OutlineInputBorder(),
-                            hintText: "new password"),
+                            hintText: "новый пароль"),
                       ),
                     )
                   ],
                 )),
-            Column(
+            Row(
               crossAxisAlignment: CrossAxisAlignment.center,
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
@@ -138,6 +138,12 @@ class ProfilePageState extends State<ProfilePage> {
                           builder: (context) => const EnterScreen()));
                     },
                     child: const Text("Удалить аккаунт")),
+              ],
+            ),
+            Column(
+               crossAxisAlignment: CrossAxisAlignment.center,
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
                 ElevatedButton(
                     onPressed: () {
                       FirebaseAuth.instance.signOut();
@@ -145,8 +151,8 @@ class ProfilePageState extends State<ProfilePage> {
                           builder: (context) => const EnterScreen()));
                     },
                     child: const Text("Выйти"))
-              ],
-            ),
+              ]
+            )
           ],
         ),
       ),

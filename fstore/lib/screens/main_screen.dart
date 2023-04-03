@@ -25,7 +25,7 @@ class MainScreenState extends State<MainScreen> {
         items: const [
           BottomNavigationBarItem(icon: Icon(Icons.image), label: "Картинки"),
           BottomNavigationBarItem(
-              icon: Icon(Icons.account_circle), label: "Профиль")
+              icon: Icon(Icons.people_alt_sharp), label: "Профиль")
         ],
         currentIndex: currentIndex,
         onTap: ((value) {

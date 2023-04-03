@@ -44,7 +44,7 @@ class EnterScreenState extends State<EnterScreen> {
                           }
                         },
                         decoration: const InputDecoration(
-                            border: OutlineInputBorder(), hintText: "email"),
+                            border: OutlineInputBorder(), hintText: "почта"),
                       ),
                     ),
                     Padding(
@@ -57,12 +57,12 @@ class EnterScreenState extends State<EnterScreen> {
                           }
                         },
                         decoration: const InputDecoration(
-                            border: OutlineInputBorder(), hintText: "password"),
+                            border: OutlineInputBorder(), hintText: "пароль"),
                       ),
                     )
                   ],
                 )),
-            Row(
+            Column(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
                 ElevatedButton(

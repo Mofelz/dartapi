@@ -114,7 +114,7 @@ class UsersPageState extends State<UsersPage> {
                     padding: const EdgeInsets.all(10),
                     child: Container(
                       decoration: BoxDecoration(
-                        color: Colors.blueGrey,
+                        color: Colors.white,
                       ),
                       child: Column(
                         children: [
@@ -146,13 +146,13 @@ class UsersPageState extends State<UsersPage> {
                               );
                             },
                             child: Text(
-                              "Ссылка: " + image.path!,
+                              "Ссылка: " + image.path!.substring(0,30) + "...",
                               style: TextStyle(
-                                  color: Colors.lightBlue,
+                                  color: Colors.purple,
                                   decoration: TextDecoration.underline),
                             ),
                           ),
-                          Row(
+                          Column(
                             crossAxisAlignment: CrossAxisAlignment.center,
                             mainAxisAlignment: MainAxisAlignment.spaceAround,
                             children: [
