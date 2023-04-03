@@ -15,11 +15,11 @@
 
 3.	Список изображений
 
-![изображение](https://user-images.githubusercontent.com/69753376/227746048-141199a9-bdf9-461f-9237-d6ffc00ef3ce.png)
+![image](https://user-images.githubusercontent.com/93879842/229532161-f69ce5d0-4b6a-46ae-936f-e2bb26d63041.png)
 
 4.	Изменение названия изображения
 
-![изображение](https://user-images.githubusercontent.com/69753376/227746051-db222401-b817-47cb-8ea0-f7d79df07abc.png)
+![image](https://user-images.githubusercontent.com/93879842/229532286-dccdb6ca-9dc1-40a3-9668-9b5e305ac143.png)
 
 5.	Код изменения 
 
