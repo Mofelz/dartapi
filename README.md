@@ -11,7 +11,7 @@
 
 2.	Работа с профилем 
 
-![изображение](https://user-images.githubusercontent.com/69753376/227746040-839376bd-7617-4bbc-92dd-ca419305926a.png)
+![image](https://user-images.githubusercontent.com/93879842/229531880-cf36c187-6474-42ee-8e57-610838bbf88c.png)
 
 3.	Список изображений
 
