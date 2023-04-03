@@ -7,7 +7,7 @@
 
 1.	Авторизация
 
-![изображение](https://user-images.githubusercontent.com/69753376/227746035-4dee1ee9-79e4-4d3e-b697-b7b15bb09c74.png)
+![image](https://user-images.githubusercontent.com/93879842/229533062-d9e85ae2-9201-4eab-b18d-6c915bad715c.png)
 
 2.	Работа с профилем 
 
